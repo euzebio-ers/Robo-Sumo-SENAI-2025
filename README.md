@@ -6,7 +6,6 @@ Este repositório contém a documentação, código-fonte e esquemáticos do Rob
 O objetivo é desenvolver um robô autônomo de até 1kg capaz de localizar e empurrar um oponente para fora de uma arena circular (Dohyo), mantendo-se dentro dos limites da mesma.
 
 * **Instituição:** SENAI
-* **Data da Competição:** 28/11/2025
 
 ## 👥 Equipe Desenvolvedora
 
